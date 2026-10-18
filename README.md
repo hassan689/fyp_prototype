@@ -1,6 +1,10 @@
 # NextGenYield — Flutter mobile app
 
 A native Flutter prototype for Android and iOS, based on the wheat-monitoring concept in the supplied PDF. The UI is written in Dart using Flutter widgets. There is no WebView, HTML frontend, or web target in this mobile project.
+<img width="496" height="915" alt="Screenshot 2026-10-18 102037" src="https://github.com/user-attachments/assets/aacf03cd-70a6-4637-aa3c-9436e2b34bc9" />
+<img width="494" height="913" alt="Screenshot 2026-10-18 102022" src="https://github.com/user-attachments/assets/0bc054ad-2aba-40fa-a115-135f08bb5b63" />
+<img width="498" height="914" alt="Screenshot 2026-10-18 101957" src="https://github.com/user-attachments/assets/156180d8-86d7-474c-a515-db5e77c74c94" />
+<img width="496" height="917" alt="Screenshot 2026-10-18 101931" src="https://github.com/user-attachments/assets/a15a457f-4a3a-4983-a9ef-6c5a30f388ab" />
 
 ## Open the project
 
